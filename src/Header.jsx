@@ -31,7 +31,7 @@ function Header() {
             </div>
           ))
         ) : (
-          <p className="text-gray-500 text-lg">No favorite cars added yet.</p>
+          <p className="text-gray-500 text-lg"></p>
         )}
       </div>
     </div>
